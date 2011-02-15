@@ -1,0 +1,8 @@
+<page>
+  <title>タイトル1</title>
+  <text atr="foo">内容</text>
+</page>
+<page>
+  <title>タイトル２</title>
+  <text attt="test">テストデータ2</text>
+</page>
